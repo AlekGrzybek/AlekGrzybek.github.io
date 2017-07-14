@@ -1,0 +1,227 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AlekGrzybek.github.io" resolutions="1x" timestamp="1500036284570">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-wzorcowa.css" crc="4052424202" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="3824530138" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
+    <file name="archieve32.css" crc="442652667" ref="archieve32"/>
+    <file name="nomq_archieve32.css" crc="236087961" ref="archieve32"/>
+    <file name="cv.css" crc="38340293" ref="cv"/>
+    <file name="nomq_cv.css" crc="130279724" ref="cv"/>
+    <file name="kex.css" crc="372908318" ref="kex"/>
+    <file name="nomq_kex.css" crc="4196770690" ref="kex"/>
+    <file name="maks.css" crc="4267022475" ref="maks"/>
+    <file name="nomq_maks.css" crc="3917998945" ref="maks"/>
+    <file name="index.css" crc="3819898523" ref="index"/>
+    <file name="nomq_index.css" crc="320944523" ref="index"/>
+    <file name="skibi.css" crc="3959639323" ref="skibi"/>
+    <file name="nomq_skibi.css" crc="3950341488" ref="skibi"/>
+    <file name="logo.css" crc="3771391974" ref="logo"/>
+    <file name="nomq_logo.css" crc="327380220" ref="logo"/>
+    <file name="kontakt.css" crc="130784388" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4032454864" ref="kontakt"/>
+    <file name="smak-kt_ry-cieszy_n_.css" crc="4060300111" ref="smak-który-cieszy(n)"/>
+    <file name="nomq_smak-kt_ry-cieszy_n_.css" crc="4047146608" ref="smak-który-cieszy(n)"/>
+  </folder>
+  <folder name="assets">
+    <file name="4.jpg" crc="4031077033" seo="true" mt="1333637596000"/>
+    <file name="4s.jpg" crc="19554987" seo="true" mt="1473964213000"/>
+    <file name="1.jpg" crc="348403980" seo="true" mt="1333637554000"/>
+    <file name="1new.tif" crc="4092071964" seo="true" mt="1494233059000"/>
+    <file name="6new.tif" crc="399427336" seo="true" mt="1494231423000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="museutils.js" crc="163421577" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="whatinput.js" crc="86476730" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="museconfig.js" crc="36584860" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="require.js" crc="244322403" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="webpro.js" crc="3848665353" ref="archieve32"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="archieve32"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="archieve32"/>
+    <file name="touchswipe.js" crc="404375771" ref="archieve32"/>
+  </folder>
+  <folder name="images">
+    <file name="archiebe32mockup-crop-u525.jpg" crc="4055745902" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
+    <file name="skibino2zoom.jpg" crc="4003776657" seo="true" ref="index"/>
+    <file name="6new.jpg" crc="3829909955" seo="true" ref="index"/>
+    <file name="plakat www-crop-u2716.png" crc="3985344607" ref="index"/>
+    <file name="logo logol-02-crop-u2557.png" crc="533851935" ref="index"/>
+    <file name="makso logo-07-crop-u510.jpg" crc="467099017" ref="index"/>
+    <file name="balance-crop-u2580.jpg" crc="265973822" ref="index"/>
+    <file name="skibino2zoom300x254.jpg" crc="67624215" seo="true" ref="index"/>
+    <file name="archiebe32mockup-crop-u5252.jpg" crc="4218106195" ref="index"/>
+    <file name="plakat www-crop-u27162.png" crc="4203918940" ref="index"/>
+    <file name="logo logol-02-crop-u25572.png" crc="4197084784" ref="index"/>
+    <file name="makso logo-07-crop-u5102.jpg" crc="34291279" ref="index"/>
+    <file name="balance-crop-u25802.jpg" crc="161873529" ref="index"/>
+    <file name="plakat www-crop-u27163.png" crc="3992986704" ref="index"/>
+    <file name="skibino2zoom155x130.jpg" crc="356084599" seo="true" ref="index"/>
+    <file name="logo logol-02-crop-u25573.png" crc="111276987" ref="index"/>
+    <file name="6new168x126.jpg" crc="197024303" seo="true" ref="index"/>
+    <file name="makso logo-07-crop-u5103.jpg" crc="331394441" ref="index"/>
+    <file name="archiebe32mockup-crop-u5253.jpg" crc="3996700810" ref="index"/>
+    <file name="balance-crop-u25803.jpg" crc="3992468445" ref="index"/>
+    <file name="skibi no3.jpg" crc="3960341300" seo="true" ref="skibi"/>
+    <file name="skibi no3zoom.jpg" crc="4086309834" seo="true" ref="skibi"/>
+    <file name="skibino2zoom2.jpg" crc="37442329" seo="true" ref="skibi"/>
+    <file name="skibino2zoom22.jpg" crc="4115102595" seo="true" ref="skibi"/>
+    <file name="skibizoom1.jpg" crc="3807415060" seo="true" ref="skibi"/>
+    <file name="skibizoom2.jpg" crc="42610068" seo="true" ref="skibi"/>
+    <file name="skibizoom1563x576.jpg" crc="3810324998" seo="true" ref="skibi"/>
+    <file name="skibizoom2552x441.jpg" crc="318784599" seo="true" ref="skibi"/>
+    <file name="skibi no3-crop-u3183.jpg" crc="429994887" ref="skibi"/>
+    <file name="skibi no3zoom-crop-u3191.jpg" crc="284660408" ref="skibi"/>
+    <file name="skibino2zoom419x354.jpg" crc="4141695875" seo="true" ref="skibi"/>
+    <file name="skibino2zoom2419x354.jpg" crc="4128874851" seo="true" ref="skibi"/>
+    <file name="skibizoom1420x430.jpg" crc="3796846385" seo="true" ref="skibi"/>
+    <file name="skibizoom2420x336.jpg" crc="3797028025" seo="true" ref="skibi"/>
+    <file name="skibi no3-crop-u31832.jpg" crc="4266338799" ref="skibi"/>
+    <file name="skibi no3zoom293x248.jpg" crc="4147437460" seo="true" ref="skibi"/>
+    <file name="skibizoom1-crop-u468.jpg" crc="4238389005" ref="skibi"/>
+    <file name="skibizoom2293x234.jpg" crc="336816086" seo="true" ref="skibi"/>
+    <file name="skibino2zoom293x248.jpg" crc="4096110883" seo="true" ref="skibi"/>
+    <file name="skibino2zoom2293x248.jpg" crc="128934682" seo="true" ref="skibi"/>
+    <file name="thumb_dsc_0131_1024-crop-u3166.jpg" crc="4076098958" ref="kontakt"/>
+    <file name="thumb_dsc_0131_1024-crop-u31662.jpg" crc="271539557" ref="kontakt"/>
+    <file name="thumb_dsc_0131_1024-crop-u31663.jpg" crc="4120555400" ref="kontakt"/>
+    <file name="thumb_dsc_0131_1024-crop-u31664.jpg" crc="3886123717" ref="kontakt"/>
+    <file name="logo info-05.jpg" crc="4114707424" seo="true" ref="maks"/>
+    <file name="makso logo-07.jpg" crc="156031939" seo="true" ref="maks"/>
+    <file name="makso logo-08.jpg" crc="323282019" seo="true" ref="maks"/>
+    <file name="l3q2jimqwon6i7itg.gif" crc="524851810" seo="true" ref="maks"/>
+    <file name="logo info-05349x247.jpg" crc="103901279" seo="true" ref="maks"/>
+    <file name="makso logo-07350x248.jpg" crc="168017002" seo="true" ref="maks"/>
+    <file name="makso logo-08344x243.jpg" crc="3776197137" seo="true" ref="maks"/>
+    <file name="logo info-05187x132.jpg" crc="115002929" seo="true" ref="maks"/>
+    <file name="makso logo-07-crop-u2357.jpg" crc="4165448019" ref="maks"/>
+    <file name="makso logo-08-crop-u2364.jpg" crc="3937513821" ref="maks"/>
+    <file name="l3q2jimqwon6i7itg-crop-u2394.jpg" crc="3873599804" ref="maks"/>
+    <file name="logo info-05156x110.jpg" crc="221017776" seo="true" ref="maks"/>
+    <file name="makso logo-07-crop-u23572.jpg" crc="3766950413" ref="maks"/>
+    <file name="makso logo-08-crop-u23642.jpg" crc="3803624882" ref="maks"/>
+    <file name="l3q2jimqwon6i7itg-crop-u23942.jpg" crc="214946406" ref="maks"/>
+    <file name="1.jpg" crc="3874868722" seo="true" ref="archieve32"/>
+    <file name="2.jpg" crc="3986832536" seo="true" ref="archieve32"/>
+    <file name="3.jpg" crc="3958916255" seo="true" ref="archieve32"/>
+    <file name="4.jpg" crc="4088643845" seo="true" ref="archieve32"/>
+    <file name="5.jpg" crc="47958934" seo="true" ref="archieve32"/>
+    <file name="flayers.jpg" crc="457160382" seo="true" ref="archieve32"/>
+    <file name="poster_mockup.jpg" crc="256173051" seo="true" ref="archieve32"/>
+    <file name="loading.gif" crc="3815509949" ref="archieve32"/>
+    <file name="1500x375.jpg" crc="4007128852" seo="true" ref="archieve32"/>
+    <file name="2500x375.jpg" crc="3941289509" seo="true" ref="archieve32"/>
+    <file name="3500x375.jpg" crc="41805355" seo="true" ref="archieve32"/>
+    <file name="4500x375.jpg" crc="177597609" seo="true" ref="archieve32"/>
+    <file name="5500x375.jpg" crc="3978242726" seo="true" ref="archieve32"/>
+    <file name="flayers500x375.jpg" crc="394912182" seo="true" ref="archieve32"/>
+    <file name="poster_mockup345x454.jpg" crc="3818936255" seo="true" ref="archieve32"/>
+    <file name="alechala-crop-u1019.jpg" crc="429238667" ref="logo"/>
+    <file name="logo koło.png" crc="4061084208" seo="true" ref="logo"/>
+    <file name="ag.jpg" crc="264255875" seo="true" ref="logo"/>
+    <file name="obszar roboczy 3-crop-u3289.png" crc="43453612" ref="logo"/>
+    <file name="avatar-crop-u1276.jpg" crc="3913743853" ref="logo"/>
+    <file name="star koncept-01.png" crc="4226823373" seo="true" ref="logo"/>
+    <file name="macha1-02-crop-u1061.png" crc="3844242888" ref="logo"/>
+    <file name="logotypo2-crop-u1415.jpg" crc="3901676559" ref="logo"/>
+    <file name="macha1-02-crop-u10612.png" crc="454693367" ref="logo"/>
+    <file name="logo koło343x253.png" crc="4061084208" seo="true" ref="logo"/>
+    <file name="avatar-crop-u12762.jpg" crc="418220921" ref="logo"/>
+    <file name="logotypo2-crop-u14152.jpg" crc="495232854" ref="logo"/>
+    <file name="alechala-crop-u10192.jpg" crc="3994591988" ref="logo"/>
+    <file name="obszar roboczy 3-crop-u32892.png" crc="4133730002" ref="logo"/>
+    <file name="star koncept-01186x186.png" crc="4234681743" seo="true" ref="logo"/>
+    <file name="macha1-02-crop-u10613.png" crc="299637578" ref="logo"/>
+    <file name="logo koło278x205.png" crc="529502729" seo="true" ref="logo"/>
+    <file name="alechala-crop-u10193.jpg" crc="148594265" ref="logo"/>
+    <file name="avatar-crop-u12763.jpg" crc="205672571" ref="logo"/>
+    <file name="logotypo2-crop-u14153.jpg" crc="317609610" ref="logo"/>
+    <file name="obszar roboczy 3-crop-u32893.png" crc="4026650949" ref="logo"/>
+    <file name="star koncept-01157x157.png" crc="3833615772" seo="true" ref="logo"/>
+    <file name="macha1-02-crop-u10614.png" crc="435477320" ref="logo"/>
+    <file name="logo koło259x191.png" crc="4116603467" seo="true" ref="logo"/>
+    <file name="alechala-crop-u10194.jpg" crc="95089316" ref="logo"/>
+    <file name="avatar-crop-u12764.jpg" crc="502121479" ref="logo"/>
+    <file name="logotypo2-crop-u14154.jpg" crc="3809081211" ref="logo"/>
+    <file name="obszar roboczy 3-crop-u32894.png" crc="3978692368" ref="logo"/>
+    <file name="star koncept-01171x171.png" crc="4158590975" seo="true" ref="logo"/>
+    <file name="6s-crop-u4988.jpg" crc="3954609680" ref="smak-który-cieszy(n)"/>
+    <file name="4s-crop-u4974.jpg" crc="4173578009" ref="smak-który-cieszy(n)"/>
+    <file name="7s-crop-u4995.jpg" crc="446035891" ref="smak-który-cieszy(n)"/>
+    <file name="9s-crop-u5009.jpg" crc="4010872551" ref="smak-który-cieszy(n)"/>
+    <file name="1s-crop-u4952.jpg" crc="3946686422" ref="smak-który-cieszy(n)"/>
+    <file name="5s-crop-u4981.jpg" crc="3928093347" ref="smak-który-cieszy(n)"/>
+    <file name="2s-crop-u4960.jpg" crc="4018964862" ref="smak-który-cieszy(n)"/>
+    <file name="8s-crop-u5002.jpg" crc="4124912752" ref="smak-który-cieszy(n)"/>
+    <file name="3s-crop-u4967.jpg" crc="166635937" ref="smak-który-cieszy(n)"/>
+    <file name="6s-crop-u49882.jpg" crc="472200939" ref="smak-który-cieszy(n)"/>
+    <file name="4s-crop-u49742.jpg" crc="133026065" ref="smak-który-cieszy(n)"/>
+    <file name="7s-crop-u49952.jpg" crc="4103642116" ref="smak-który-cieszy(n)"/>
+    <file name="9s-crop-u50092.jpg" crc="4056674533" ref="smak-który-cieszy(n)"/>
+    <file name="1s-crop-u49522.jpg" crc="4056165619" ref="smak-który-cieszy(n)"/>
+    <file name="5s-crop-u49812.jpg" crc="3834599558" ref="smak-który-cieszy(n)"/>
+    <file name="2s-crop-u49602.jpg" crc="518624534" ref="smak-który-cieszy(n)"/>
+    <file name="8s-crop-u50022.jpg" crc="83100208" ref="smak-który-cieszy(n)"/>
+    <file name="3s-crop-u49672.jpg" crc="3851712315" ref="smak-który-cieszy(n)"/>
+    <file name="6s-crop-u49883.jpg" crc="294064047" ref="smak-który-cieszy(n)"/>
+    <file name="4s-crop-u49743.jpg" crc="4088582337" ref="smak-który-cieszy(n)"/>
+    <file name="7s-crop-u49953.jpg" crc="4025006713" ref="smak-który-cieszy(n)"/>
+    <file name="9s-crop-u50093.jpg" crc="4031662975" ref="smak-który-cieszy(n)"/>
+    <file name="1s-crop-u49523.jpg" crc="132166072" ref="smak-który-cieszy(n)"/>
+    <file name="5s-crop-u49813.jpg" crc="3853735952" ref="smak-który-cieszy(n)"/>
+    <file name="2s122x163.jpg" crc="155057719" seo="true" ref="smak-który-cieszy(n)"/>
+    <file name="8s-crop-u50023.jpg" crc="4274275155" ref="smak-który-cieszy(n)"/>
+    <file name="3s-crop-u49673.jpg" crc="4234660947" ref="smak-który-cieszy(n)"/>
+    <file name="6s-crop-u49884.jpg" crc="448264845" ref="smak-który-cieszy(n)"/>
+    <file name="4s-crop-u49744.jpg" crc="223003575" ref="smak-który-cieszy(n)"/>
+    <file name="7s-crop-u49954.jpg" crc="3965491567" ref="smak-który-cieszy(n)"/>
+    <file name="9s-crop-u50094.jpg" crc="364597905" ref="smak-który-cieszy(n)"/>
+    <file name="1s-crop-u49524.jpg" crc="65894453" ref="smak-który-cieszy(n)"/>
+    <file name="5s-crop-u49814.jpg" crc="4039086595" ref="smak-który-cieszy(n)"/>
+    <file name="2s102x136.jpg" crc="3854252268" seo="true" ref="smak-który-cieszy(n)"/>
+    <file name="8s-crop-u50024.jpg" crc="13677911" ref="smak-który-cieszy(n)"/>
+    <file name="3s-crop-u49674.jpg" crc="241865806" ref="smak-który-cieszy(n)"/>
+    <file name="aobszar roboczy 9.png" crc="4162893852" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 12.png" crc="4190874908" seo="true" ref="kex"/>
+    <file name="kompozycja-34.svg" crc="3806802179" seo="true" ref="kex"/>
+    <file name="kompozycja 34_poster_.png" crc="4235848865" ref="kex"/>
+    <file name="prezentacjafoto-crop-u2957.jpg" crc="3893289000" ref="kex"/>
+    <file name="wizytówka1.jpg" crc="4065979039" seo="true" ref="kex"/>
+    <file name="fotochuj kex.png" crc="4242175809" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 7.png" crc="324135651" seo="true" ref="kex"/>
+    <file name="postergotowy01.jpg" crc="3782538216" seo="true" ref="kex"/>
+    <file name="plakatlepszy2.jpg" crc="3904451505" seo="true" ref="kex"/>
+    <file name="kex-gif.gif" crc="367255432" seo="true" ref="kex"/>
+    <file name="plakat03-03.jpg" crc="243963876" seo="true" ref="kex"/>
+    <file name="logo biel-07.jpg" crc="4140787794" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 12217x224.png" crc="4293288269" seo="true" ref="kex"/>
+    <file name="prezentacjafoto-crop-u29572.jpg" crc="4057322545" ref="kex"/>
+    <file name="aobszar roboczy 7170x240.png" crc="3761725744" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 9222x328.png" crc="4103238747" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 12159x164.png" crc="205847414" seo="true" ref="kex"/>
+    <file name="prezentacjafoto-crop-u29573.jpg" crc="3767822540" ref="kex"/>
+    <file name="wizytówka1293x220.jpg" crc="4259753148" seo="true" ref="kex"/>
+    <file name="postergotowy01407x285.jpg" crc="48860917" seo="true" ref="kex"/>
+    <file name="plakatlepszy2407x285.jpg" crc="42299036" seo="true" ref="kex"/>
+    <file name="plakat03-03288x406.jpg" crc="3977492359" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 9178x263.png" crc="290719762" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 12124x128.png" crc="3900064098" seo="true" ref="kex"/>
+    <file name="prezentacjafoto-crop-u29574.jpg" crc="113414862" ref="kex"/>
+    <file name="wizytówka1238x179.jpg" crc="3879571746" seo="true" ref="kex"/>
+    <file name="aobszar roboczy 7166x235.png" crc="13992224" seo="true" ref="kex"/>
+    <file name="postergotowy01337x236.jpg" crc="463864469" seo="true" ref="kex"/>
+    <file name="plakatlepszy2337x236.jpg" crc="4107922838" seo="true" ref="kex"/>
+    <file name="plakat03-03-crop-u3000.jpg" crc="82224464" ref="kex"/>
+  </folder>
+  <file name="index.html" crc="2995991" seo="true" mt="1500034485327" redirect="true"/>
+  <file name="skibi.html" crc="264449594" seo="true" mt="1500034387106" redirect="true"/>
+  <file name="kontakt.html" crc="409931842" seo="true" mt="1500030696997" redirect="true"/>
+  <file name="maks.html" crc="4072698347" seo="true" mt="1500032335598" redirect="true"/>
+  <file name="archieve32.html" crc="503403971" seo="true" mt="1500033848876" redirect="true"/>
+  <file name="logo.html" crc="393469018" seo="true" mt="1500031202889" redirect="true"/>
+  <file name="smak-który-cieszy(n).html" crc="3947983611" seo="true" mt="1500036198890" redirect="true"/>
+  <file name="cv.html" crc="4068514495" seo="true" mt="1499779771142" redirect="true"/>
+  <file name="kex.html" crc="3932016386" seo="true" mt="1500035208821" redirect="true"/>
+</manifest>
