@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AlekGrzybek.github.io" resolutions="1x" timestamp="1500036284570">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AlekGrzybek.github.io" resolutions="1x" timestamp="1502965408304">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-wzorcowa.css" crc="4052424202" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
+    <file name="master_a-wzorcowa.css" crc="4183537074" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="3824530138" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
     <file name="archieve32.css" crc="442652667" ref="archieve32"/>
     <file name="nomq_archieve32.css" crc="236087961" ref="archieve32"/>
     <file name="cv.css" crc="38340293" ref="cv"/>
     <file name="nomq_cv.css" crc="130279724" ref="cv"/>
-    <file name="kex.css" crc="372908318" ref="kex"/>
-    <file name="nomq_kex.css" crc="4196770690" ref="kex"/>
+    <file name="kex.css" crc="393468833" ref="kex"/>
+    <file name="nomq_kex.css" crc="3885791487" ref="kex"/>
     <file name="maks.css" crc="4267022475" ref="maks"/>
     <file name="nomq_maks.css" crc="3917998945" ref="maks"/>
-    <file name="index.css" crc="3819898523" ref="index"/>
-    <file name="nomq_index.css" crc="320944523" ref="index"/>
+    <file name="index.css" crc="3790767243" ref="index"/>
+    <file name="nomq_index.css" crc="4030201679" ref="index"/>
     <file name="skibi.css" crc="3959639323" ref="skibi"/>
     <file name="nomq_skibi.css" crc="3950341488" ref="skibi"/>
     <file name="logo.css" crc="3771391974" ref="logo"/>
@@ -26,8 +26,6 @@
     <file name="4.jpg" crc="4031077033" seo="true" mt="1333637596000"/>
     <file name="4s.jpg" crc="19554987" seo="true" mt="1473964213000"/>
     <file name="1.jpg" crc="348403980" seo="true" mt="1333637554000"/>
-    <file name="1new.tif" crc="4092071964" seo="true" mt="1494233059000"/>
-    <file name="6new.tif" crc="399427336" seo="true" mt="1494231423000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
@@ -45,20 +43,19 @@
   <folder name="images">
     <file name="archiebe32mockup-crop-u525.jpg" crc="4055745902" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
-    <file name="skibino2zoom.jpg" crc="4003776657" seo="true" ref="index"/>
     <file name="6new.jpg" crc="3829909955" seo="true" ref="index"/>
     <file name="plakat www-crop-u2716.png" crc="3985344607" ref="index"/>
     <file name="logo logol-02-crop-u2557.png" crc="533851935" ref="index"/>
     <file name="makso logo-07-crop-u510.jpg" crc="467099017" ref="index"/>
     <file name="balance-crop-u2580.jpg" crc="265973822" ref="index"/>
-    <file name="skibino2zoom300x254.jpg" crc="67624215" seo="true" ref="index"/>
+    <file name="skibino2zoom300x254.jpg" crc="115248568" seo="true" ref="index"/>
     <file name="archiebe32mockup-crop-u5252.jpg" crc="4218106195" ref="index"/>
     <file name="plakat www-crop-u27162.png" crc="4203918940" ref="index"/>
     <file name="logo logol-02-crop-u25572.png" crc="4197084784" ref="index"/>
     <file name="makso logo-07-crop-u5102.jpg" crc="34291279" ref="index"/>
     <file name="balance-crop-u25802.jpg" crc="161873529" ref="index"/>
     <file name="plakat www-crop-u27163.png" crc="3992986704" ref="index"/>
-    <file name="skibino2zoom155x130.jpg" crc="356084599" seo="true" ref="index"/>
+    <file name="skibino2zoom155x130.jpg" crc="413076654" seo="true" ref="index"/>
     <file name="logo logol-02-crop-u25573.png" crc="111276987" ref="index"/>
     <file name="6new168x126.jpg" crc="197024303" seo="true" ref="index"/>
     <file name="makso logo-07-crop-u5103.jpg" crc="331394441" ref="index"/>
@@ -189,7 +186,6 @@
     <file name="kompozycja 34_poster_.png" crc="4235848865" ref="kex"/>
     <file name="prezentacjafoto-crop-u2957.jpg" crc="3893289000" ref="kex"/>
     <file name="wizytówka1.jpg" crc="4065979039" seo="true" ref="kex"/>
-    <file name="fotochuj kex.png" crc="4242175809" seo="true" ref="kex"/>
     <file name="aobszar roboczy 7.png" crc="324135651" seo="true" ref="kex"/>
     <file name="postergotowy01.jpg" crc="3782538216" seo="true" ref="kex"/>
     <file name="plakatlepszy2.jpg" crc="3904451505" seo="true" ref="kex"/>
@@ -214,8 +210,12 @@
     <file name="postergotowy01337x236.jpg" crc="463864469" seo="true" ref="kex"/>
     <file name="plakatlepszy2337x236.jpg" crc="4107922838" seo="true" ref="kex"/>
     <file name="plakat03-03-crop-u3000.jpg" crc="82224464" ref="kex"/>
+    <file name="skibino2zoom386x325.jpg" crc="4063075888" seo="true" ref="index"/>
+    <file name="fotochujek nowyyyyy.jpg" crc="3958355462" seo="true" ref="kex"/>
+    <file name="fotochujek nowyyyyy118x176.jpg" crc="410130309" seo="true" ref="kex"/>
+    <file name="fotochujek nowyyyyy98x147.jpg" crc="503779786" seo="true" ref="kex"/>
   </folder>
-  <file name="index.html" crc="2995991" seo="true" mt="1500034485327" redirect="true"/>
+  <file name="index.html" crc="149337942" seo="true" mt="1500066710543" redirect="true"/>
   <file name="skibi.html" crc="264449594" seo="true" mt="1500034387106" redirect="true"/>
   <file name="kontakt.html" crc="409931842" seo="true" mt="1500030696997" redirect="true"/>
   <file name="maks.html" crc="4072698347" seo="true" mt="1500032335598" redirect="true"/>
@@ -223,5 +223,5 @@
   <file name="logo.html" crc="393469018" seo="true" mt="1500031202889" redirect="true"/>
   <file name="smak-który-cieszy(n).html" crc="3947983611" seo="true" mt="1500036198890" redirect="true"/>
   <file name="cv.html" crc="4068514495" seo="true" mt="1499779771142" redirect="true"/>
-  <file name="kex.html" crc="3932016386" seo="true" mt="1500035208821" redirect="true"/>
+  <file name="kex.html" crc="4235188134" seo="true" mt="1502965403869" redirect="true"/>
 </manifest>
