@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AlekGrzybek.github.io" resolutions="1x" timestamp="1502965408304">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AlekGrzybek.github.io" resolutions="1x" timestamp="1504025667087">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-wzorcowa.css" crc="4183537074" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
+    <file name="master_a-wzorcowa.css" crc="440969626" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="3824530138" ref="archieve32:cv:kex:maks:index:skibi:logo:kontakt:smak-który-cieszy(n)"/>
     <file name="archieve32.css" crc="442652667" ref="archieve32"/>
     <file name="nomq_archieve32.css" crc="236087961" ref="archieve32"/>
@@ -11,12 +11,12 @@
     <file name="nomq_kex.css" crc="3885791487" ref="kex"/>
     <file name="maks.css" crc="4267022475" ref="maks"/>
     <file name="nomq_maks.css" crc="3917998945" ref="maks"/>
-    <file name="index.css" crc="3790767243" ref="index"/>
-    <file name="nomq_index.css" crc="4030201679" ref="index"/>
+    <file name="index.css" crc="4191719521" ref="index"/>
+    <file name="nomq_index.css" crc="328950138" ref="index"/>
     <file name="skibi.css" crc="3959639323" ref="skibi"/>
     <file name="nomq_skibi.css" crc="3950341488" ref="skibi"/>
-    <file name="logo.css" crc="3771391974" ref="logo"/>
-    <file name="nomq_logo.css" crc="327380220" ref="logo"/>
+    <file name="logo.css" crc="4033162134" ref="logo"/>
+    <file name="nomq_logo.css" crc="4009442255" ref="logo"/>
     <file name="kontakt.css" crc="130784388" ref="kontakt"/>
     <file name="nomq_kontakt.css" crc="4032454864" ref="kontakt"/>
     <file name="smak-kt_ry-cieszy_n_.css" crc="4060300111" ref="smak-który-cieszy(n)"/>
@@ -44,17 +44,14 @@
     <file name="archiebe32mockup-crop-u525.jpg" crc="4055745902" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:skibi:kontakt:maks:archieve32:logo:smak-który-cieszy(n):cv:kex"/>
     <file name="6new.jpg" crc="3829909955" seo="true" ref="index"/>
-    <file name="plakat www-crop-u2716.png" crc="3985344607" ref="index"/>
     <file name="logo logol-02-crop-u2557.png" crc="533851935" ref="index"/>
     <file name="makso logo-07-crop-u510.jpg" crc="467099017" ref="index"/>
     <file name="balance-crop-u2580.jpg" crc="265973822" ref="index"/>
     <file name="skibino2zoom300x254.jpg" crc="115248568" seo="true" ref="index"/>
     <file name="archiebe32mockup-crop-u5252.jpg" crc="4218106195" ref="index"/>
-    <file name="plakat www-crop-u27162.png" crc="4203918940" ref="index"/>
     <file name="logo logol-02-crop-u25572.png" crc="4197084784" ref="index"/>
     <file name="makso logo-07-crop-u5102.jpg" crc="34291279" ref="index"/>
     <file name="balance-crop-u25802.jpg" crc="161873529" ref="index"/>
-    <file name="plakat www-crop-u27163.png" crc="3992986704" ref="index"/>
     <file name="skibino2zoom155x130.jpg" crc="413076654" seo="true" ref="index"/>
     <file name="logo logol-02-crop-u25573.png" crc="111276987" ref="index"/>
     <file name="6new168x126.jpg" crc="197024303" seo="true" ref="index"/>
@@ -116,29 +113,21 @@
     <file name="flayers500x375.jpg" crc="394912182" seo="true" ref="archieve32"/>
     <file name="poster_mockup345x454.jpg" crc="3818936255" seo="true" ref="archieve32"/>
     <file name="alechala-crop-u1019.jpg" crc="429238667" ref="logo"/>
-    <file name="logo koło.png" crc="4061084208" seo="true" ref="logo"/>
     <file name="ag.jpg" crc="264255875" seo="true" ref="logo"/>
-    <file name="obszar roboczy 3-crop-u3289.png" crc="43453612" ref="logo"/>
-    <file name="avatar-crop-u1276.jpg" crc="3913743853" ref="logo"/>
+    <file name="obszar roboczy 3-crop-u3289.png" crc="3907090371" ref="logo"/>
+    <file name="avatar-crop-u1276.jpg" crc="61817160" ref="logo"/>
     <file name="star koncept-01.png" crc="4226823373" seo="true" ref="logo"/>
-    <file name="macha1-02-crop-u1061.png" crc="3844242888" ref="logo"/>
-    <file name="logotypo2-crop-u1415.jpg" crc="3901676559" ref="logo"/>
-    <file name="macha1-02-crop-u10612.png" crc="454693367" ref="logo"/>
-    <file name="logo koło343x253.png" crc="4061084208" seo="true" ref="logo"/>
-    <file name="avatar-crop-u12762.jpg" crc="418220921" ref="logo"/>
+    <file name="logotypo2-crop-u1415.jpg" crc="89405038" ref="logo"/>
+    <file name="avatar-crop-u12762.jpg" crc="307681890" ref="logo"/>
     <file name="logotypo2-crop-u14152.jpg" crc="495232854" ref="logo"/>
     <file name="alechala-crop-u10192.jpg" crc="3994591988" ref="logo"/>
     <file name="obszar roboczy 3-crop-u32892.png" crc="4133730002" ref="logo"/>
     <file name="star koncept-01186x186.png" crc="4234681743" seo="true" ref="logo"/>
-    <file name="macha1-02-crop-u10613.png" crc="299637578" ref="logo"/>
-    <file name="logo koło278x205.png" crc="529502729" seo="true" ref="logo"/>
     <file name="alechala-crop-u10193.jpg" crc="148594265" ref="logo"/>
     <file name="avatar-crop-u12763.jpg" crc="205672571" ref="logo"/>
     <file name="logotypo2-crop-u14153.jpg" crc="317609610" ref="logo"/>
     <file name="obszar roboczy 3-crop-u32893.png" crc="4026650949" ref="logo"/>
     <file name="star koncept-01157x157.png" crc="3833615772" seo="true" ref="logo"/>
-    <file name="macha1-02-crop-u10614.png" crc="435477320" ref="logo"/>
-    <file name="logo koło259x191.png" crc="4116603467" seo="true" ref="logo"/>
     <file name="alechala-crop-u10194.jpg" crc="95089316" ref="logo"/>
     <file name="avatar-crop-u12764.jpg" crc="502121479" ref="logo"/>
     <file name="logotypo2-crop-u14154.jpg" crc="3809081211" ref="logo"/>
@@ -214,13 +203,19 @@
     <file name="fotochujek nowyyyyy.jpg" crc="3958355462" seo="true" ref="kex"/>
     <file name="fotochujek nowyyyyy118x176.jpg" crc="410130309" seo="true" ref="kex"/>
     <file name="fotochujek nowyyyyy98x147.jpg" crc="503779786" seo="true" ref="kex"/>
+    <file name="plakat www.png" crc="4019702125" seo="true" ref="index"/>
+    <file name="plakat www116x171.png" crc="3928110571" seo="true" ref="index"/>
+    <file name="logo www-crop-u3337.png" crc="145738685" ref="logo"/>
+    <file name="logo www-crop-u33372.png" crc="3934655918" ref="logo"/>
+    <file name="logo www-crop-u33373.png" crc="475623431" ref="logo"/>
+    <file name="logo www-crop-u33374.png" crc="346084929" ref="logo"/>
   </folder>
-  <file name="index.html" crc="149337942" seo="true" mt="1500066710543" redirect="true"/>
+  <file name="index.html" crc="124168880" seo="true" mt="1504025662470" redirect="true"/>
   <file name="skibi.html" crc="264449594" seo="true" mt="1500034387106" redirect="true"/>
   <file name="kontakt.html" crc="409931842" seo="true" mt="1500030696997" redirect="true"/>
   <file name="maks.html" crc="4072698347" seo="true" mt="1500032335598" redirect="true"/>
   <file name="archieve32.html" crc="503403971" seo="true" mt="1500033848876" redirect="true"/>
-  <file name="logo.html" crc="393469018" seo="true" mt="1500031202889" redirect="true"/>
+  <file name="logo.html" crc="273469552" seo="true" mt="1504013635913" redirect="true"/>
   <file name="smak-który-cieszy(n).html" crc="3947983611" seo="true" mt="1500036198890" redirect="true"/>
   <file name="cv.html" crc="4068514495" seo="true" mt="1499779771142" redirect="true"/>
   <file name="kex.html" crc="4235188134" seo="true" mt="1502965403869" redirect="true"/>
